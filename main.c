@@ -70,7 +70,7 @@ int main() {
     }
 
     //Test path
-    path_client = "~/Documenti/Gtest/settings.json";
+    //path_client = "~/Documenti/Gtest/settings.json";
 
     printf("%s\n", path_client);
 
